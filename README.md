@@ -14,6 +14,16 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git push](./commands/PUSH.md)
 
 - [git status](./Commands/Status.md)
+- [git add](./Commands/Add.md)
+- [git clone](./Commands/Clone.md)
+- [git pull](./Commands/Pull.md)
+- [git push](./Commands/Push.md)
+- [git remote](./Commands.Remote.md)
+- [git status](./Commands.Status.md)
+
+
+
+
 =======
 # Git Exercise
 
